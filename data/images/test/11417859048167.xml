@@ -1,0 +1,64 @@
+<annotation>
+<folder>sentetik/</folder>
+<filename>11417859048167.jpg</filename>
+<path>c:/sentetik/11417859048167.jpg</path>
+<source>
+		<database>Unknown</database>
+	</source>
+<size>
+		<width>1920</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+<segmented>0</segmented>
+
+
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>755</ymin>
+			<xmax>985</xmax>
+			<ymax>831</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1449</xmin>
+			<ymin>575</ymin>
+			<xmax>1500</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>8</ymin>
+			<xmax>374</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1060</xmin>
+			<ymin>470</ymin>
+			<xmax>1097</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

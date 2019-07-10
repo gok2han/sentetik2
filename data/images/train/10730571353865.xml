@@ -1,0 +1,40 @@
+<annotation>
+<folder>sentetik/</folder>
+<filename>10730571353865.jpg</filename>
+<path>c:/sentetik/10730571353865.jpg</path>
+<source>
+		<database>Unknown</database>
+	</source>
+<size>
+		<width>1920</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+<segmented>0</segmented>
+
+
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1423</xmin>
+			<ymin>268</ymin>
+			<xmax>1557</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>arac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>806</ymin>
+			<xmax>456</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>
